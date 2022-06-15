@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-🤓 This is Yinan Deng 邓一楠 from China, Beijing Institute of Technology :school:, a master student | a pursuer of technology and life.
+🤓 This is Yinan Deng (邓一楠) from China, Beijing Institute of Technology :school:, a master student | a pursuer of technology :rocket: and life :wine_glass:.
 
-Mainly work on 3D reconstruction of scenes :triangular_ruler:.
 
-![Dengyinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&theme=tokyonight)
+:one: :construction_worker: I mainly work on 3D reconstruction of scenes :triangular_ruler:.
 
+:two: :heart_eyes: I like watching movies :movie_camera:, traveling :palm_tree:, playing games :video_game: and enjoying food :hamburger:.
+
+![Dengyinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
 
 
 ### Get in touch
