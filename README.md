@@ -4,12 +4,12 @@
 
 I mainly work on 3D reconstruction of scenes :triangular_ruler:.
 
-[Dengyinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&theme=tokyonight)
+![Dengyinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&theme=tokyonight)
 
 
-Here are some ideas to get you started:
 
 ### Get in touch
 
-[CSDN](https://www.csdn.net/?spm=1001.2014.3001.4476)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/BIT-DYN)
+[![CSDN](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/weixin_43807148?type=blog)
 
