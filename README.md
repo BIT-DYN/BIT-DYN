@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**BIT-DYN/BIT-DYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 I'm Yinan Deng 邓一楠 from China, Beijing Institute of Technology :school:, a master student | a pursuer of technology and life.
+
+I mainly work on 3D reconstruction of scenes :triangular_ruler:.
+
+[Dengyinan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&theme=tokyonight))
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+
+[CSDN](https://www.zhihu.com/people/liliansd)
+
