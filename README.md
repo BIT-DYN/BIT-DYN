@@ -5,10 +5,11 @@
 
 :one: :construction_worker: I mainly work on 3D reconstruction of scenes :triangular_ruler:.
 
-:two: :heart_eyes: I like watching movies :movie_camera:, traveling :palm_tree:, playing games :video_game: and enjoying food :hamburger:.
+:two: :heart_eyes: I enjoy watching movies :movie_camera:, traveling :palm_tree: and playing games :video_game:.
+
+Have a Nice Day!
 
 ![Dengyinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
-
 
 ### Get in touch
 
