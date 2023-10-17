@@ -15,4 +15,5 @@ Have a Nice Day!
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/BIT-DYN)
 [![CSDN](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/weixin_43807148?type=blog)
+email: dengyinan@bit.edu.cn
 
