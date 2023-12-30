@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤓 This is Yinan Deng (邓一楠) from China, Beijing Institute of Technology :school:, a master student | a pursuer of technology :rocket: and life :wine_glass:.
+🤓 This is Yinan Deng (邓一楠) from China, Beijing Institute of Technology :school:, a PhD student | a pursuer of technology :rocket: and life :wine_glass:.
 
 
 :one: :construction_worker: I mainly work on 3D reconstruction of scenes :triangular_ruler:.
