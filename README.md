@@ -12,8 +12,7 @@ Have a Nice Day!
 ![Dengyinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
 
 ### Get in touch
-https://bit-dyn.github.io/
-[![Homepage](https://img.shields.io/badge/homepage-green)](https://github.com/BIT-DYN)
+[![Homepage](https://img.shields.io/badge/homepage-green)](https://bit-dyn.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/BIT-DYN)
 [![CSDN](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/weixin_43807148?type=blog)
 email: dengyinan@bit.edu.cn
