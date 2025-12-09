@@ -9,7 +9,7 @@
 
 Have a Nice Day!
 
-![Dengyinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIT-DYN&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff)
+[https://githubcard.com/BIT-DYN.svg?d=onBZkNDP](https://githubcard.com/BIT-DYN.svg?d=onBZkNDP)
 
 ### Get in touch
 [![Homepage](https://img.shields.io/badge/homepage-green)](https://bit-dyn.github.io/)
