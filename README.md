@@ -9,7 +9,7 @@
 
 Have a Nice Day!
 
-![My GitHub Stats](https://githubcard.com/BIT-DYN.svg?d=onBZkNDP)
+![My GitHub Stats](https://githubcard.com/BIT-DYN.svg?d=sSYdyz3L)
 
 ### Get in touch
 [![Homepage](https://img.shields.io/badge/homepage-green)](https://bit-dyn.github.io/)
